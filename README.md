@@ -41,7 +41,7 @@ Put link here
     <th> Surname </th>
     <th> University </th>
     <th> City </th>
-    <th> Cuntry </th>
+    <th> Country </th>
   </tr>
   <tr>
     <td> Melek </td>
