@@ -6,6 +6,10 @@ Put image here
 
 Hello and welcome! We are very happy that you are visiting our GitHub page. Our App "ANNA" will assist you in answering your questions. Have fun!  
 
+## The challenge giver
+
+Bayrisches Rotes Kreuz (BRK): https://www.brk.de/
+
 ## The problem
 
 -	Not sure which website to open to find an answer to your question? 
