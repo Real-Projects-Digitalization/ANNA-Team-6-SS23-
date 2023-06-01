@@ -8,7 +8,7 @@ Hello and welcome! We are very happy that you are visiting our GitHub page. Our 
 
 ## The challenge giver
 
-Bayrisches Rotes Kreuz (BRK): https://www.brk.de/
+Bayerisches Rotes Kreuz (BRK): https://www.brk.de/
 
 ## The problem
 
