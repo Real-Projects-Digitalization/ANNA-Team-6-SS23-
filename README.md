@@ -27,11 +27,11 @@ Our solution is an AI that answers your question in simple language, whether you
 
 ## Test ANNA
 
- Feel free to test [ANNA] () by your own.
+Feel free to test [ANNA](https://www.figma.com/proto/XbzkLkKWHi29msgiZa1eYH/Prototype?type=design&node-id=1-173&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A159)) by your own.
 
-## Our GitHub wiki 
+## Our GitHub Wiki 
 
-[Github wiki](https://github.com/Real-Projects-Digitalization/ANNA-Team-6-SS23-/wiki)
+[Github Wiki](https://github.com/Real-Projects-Digitalization/ANNA-Team-6-SS23-/wiki)
 
 ## Our GitHub page
 
@@ -70,5 +70,3 @@ Put link here
   </tr>
 </table>
 
-
-### Go to the Wiki for detailed information
