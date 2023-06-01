@@ -29,9 +29,9 @@ Our solution is an AI that answers your question in simple language, whether you
 
  Feel free to test [put link here] by your own.
 
-## Documentation
+## Our GitHub wiki 
 
-Put link here
+[Github wiki] https://github.com/Real-Projects-Digitalization/ANNA-Team-6-SS23-/wiki
 
 ## Our GitHub page
 
