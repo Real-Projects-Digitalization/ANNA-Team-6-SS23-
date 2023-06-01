@@ -31,7 +31,7 @@ Our solution is an AI that answers your question in simple language, whether you
 
 ## Our GitHub wiki 
 
-[Github wiki] (https://github.com/Real-Projects-Digitalization/ANNA-Team-6-SS23-/wiki)
+[Github wiki](https://github.com/Real-Projects-Digitalization/ANNA-Team-6-SS23-/wiki)
 
 ## Our GitHub page
 
