@@ -13,7 +13,7 @@ Hello and welcome! We are very happy that you are visiting our GitHub page. Our 
 ## The problem
 
 -	Not sure which website to open to find an answer to your question? 
--	Can't read and write? 
+-	Limited reading and writing skills? 
 -	Struggeling with the local language? 
 -	Translations of websites are not reliable or your preferred language is not available? 
 
