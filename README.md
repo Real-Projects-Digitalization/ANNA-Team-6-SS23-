@@ -22,8 +22,8 @@ Our solution is an AI that answers your question in simple language, whether you
 
 ## Why ANNA
 
-- Get your information fast and easy
-- …
+- Get your information fast and easy 
+- A wide variety of languages 
 
 ## Test ANNA
 
