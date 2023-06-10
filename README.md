@@ -24,6 +24,7 @@ Our solution is an AI that answers your question in simple language, whether you
 
 - Get your information fast and easy 
 - A wide variety of languages 
+- Text-to-Speech and Speech-to-Text Function
 
 ## Test ANNA
 
