@@ -6,10 +6,14 @@ Put image here
 
 Hello and welcome! We are very happy that you are visiting our GitHub page. Our App "ANNA" will assist you in answering your questions. Have fun!  
 
+## The challenge giver
+
+[Bavarian Red Cross](https://www.brk.de/)
+
 ## The problem
 
 -	Not sure which website to open to find an answer to your question? 
--	Can't read and write? 
+-	Limited reading and writing skills? 
 -	Struggeling with the local language? 
 -	Translations of websites are not reliable or your preferred language is not available? 
 
@@ -18,16 +22,17 @@ Our solution is an AI that answers your question in simple language, whether you
 
 ## Why ANNA
 
-- Get your information fast and easy
-- …
+- Get your information fast and easy 
+- A wide variety of languages 
+- Text-to-Speech and Speech-to-Text Function
 
 ## Test ANNA
 
- Feel free to test [put link here] by your own.
+Feel free to test [ANNA](https://www.figma.com/proto/XbzkLkKWHi29msgiZa1eYH/Prototype?type=design&node-id=1-173&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A159) by your own.
 
-## Documentation
+## Our GitHub Wiki 
 
-Put link here
+[Github Wiki](https://github.com/Real-Projects-Digitalization/ANNA-Team-6-SS23-/wiki)
 
 ## Our GitHub page
 
@@ -66,5 +71,3 @@ Put link here
   </tr>
 </table>
 
-
-### Go to the Wiki for detailed information
