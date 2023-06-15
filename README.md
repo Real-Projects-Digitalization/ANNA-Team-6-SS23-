@@ -1,6 +1,7 @@
 # Project ANNA by Team 6
 
-Put image here
+![image](https://github.com/Real-Projects-Digitalization/ANNA-Team-6-SS23-/assets/128697015/c504ad7a-ee26-4dbb-affb-594a51c0d5b8)
+
 
 ## ANNA is your personal guide, leading the way through the infomartion jungle.
 
