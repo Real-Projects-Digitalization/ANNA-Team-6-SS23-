@@ -24,7 +24,9 @@ Tailored Chatbot combined with User Information and validated Data.
 Navigating the complexities of resettlement can be challenging, especially when language barriers, information overload, and illiteracy create additional hurdles. It will also take workload of social workers to make room for the important tasks.
 
 # Prototype
-[Link to our Prototype](https://www.figma.com/proto/XbzkLkKWHi29msgiZa1eYH/Prototype?type=design&node-id=1-159&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A159&mode=design)
+We created a digital Prototype on figma to have a hands on experience.  
+If you want to try it out click on the 
+**[Link to our Prototype](https://www.figma.com/proto/XbzkLkKWHi29msgiZa1eYH/Prototype?type=design&node-id=1-159&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A159&mode=design)**
 
 <img src="files/language.png" alt="language" width="200"/>
 <img src="files/speech.png" alt="speech" width="200"/>
@@ -32,4 +34,4 @@ Navigating the complexities of resettlement can be challenging, especially when 
 
 # Wiki
 
-If you are interested, please visit our [GitHub Wiki](https://github.com/Real-Projects-Digitalization/ANNA-Team-6-SS23-/wiki).
+If you are interested and want to know more about this project, please visit our **[GitHub Wiki](https://github.com/Real-Projects-Digitalization/ANNA-Team-6-SS23-/wiki)**.
