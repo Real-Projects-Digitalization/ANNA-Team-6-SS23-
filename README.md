@@ -37,7 +37,7 @@ Feel free to test [ANNA](https://www.figma.com/proto/XbzkLkKWHi29msgiZa1eYH/Prot
 
 ## Our GitHub page
 
-Put link here
+[GitHub Page](https://real-projects-digitalization.github.io/ANNA-Team-6-SS23-/)
 
 ## This is our team:
 
