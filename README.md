@@ -9,7 +9,7 @@ Welcome, we are very happy that you are visiting our GitHub page. Our App "ANNA"
 
 ## The challenge giver
 
-[Bavarian Red Cross](https://www.brk.de/)
+[Bavarian Red Cross (BRK)](https://www.brk.de/)
 
 ## The problem
 Refugees face significant challenges in accessing vital information and support during the resettlement process. Language barriers, limited resources, and a shortage of social workers create obstacles that hinder their ability to navigate their new environment effectively. This information gap delays their integration, jeopardizing crucial milestones such as finding housing, employment, and essential services. A reliable and accessible solution is needed to bridge this gap and provide refugees with instant access to the information they need for a successful resettlement.
@@ -19,7 +19,7 @@ ANNA is a mobile application that addresses the information and support gap for 
 
 ## Why ANNA
 
-The key features are:
+The key features:
 - Accessible navigation in over 95 languages
 - Comprehensive support, including forms, addresses, tips, and tricks
 - Advanced AI engine for accurate and concise answers
