@@ -28,9 +28,9 @@ We created a digital Prototype on figma to have a hands on experience.
 If you want to try it out click on the 
 **[Link to our Prototype](https://www.figma.com/proto/XbzkLkKWHi29msgiZa1eYH/Prototype?type=design&node-id=1-159&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A159&mode=design)**
 
-<img src="files/language.png" alt="language" width="200"/>
-<img src="files/speech.png" alt="speech" width="200"/>
-<img src="files/chat.png" alt="chat" width="200"/>
+<img src="Documents/pages-files/language.png" alt="language" width="200"/>
+<img src="Documents/pages-files/speech.png" alt="speech" width="200"/>
+<img src="Documents/pages-files/chat.png" alt="chat" width="200"/>
 
 # Wiki
 
