@@ -19,7 +19,7 @@ Hello and welcome! We are very happy that you are visiting our GitHub page. Our 
 -	Translations of websites are not reliable or your preferred language is not available? 
 
 ## The solution
-Our solution is an AI that answers your question in simple language, whether you type it in or dictate it. Responding in a textual format as well as by dictation, available in more than 60 languages.
+Our solution is an AI that answers your question in simple language, whether you type it in or dictate it. Responding in a textual format as well as by dictation, available in over 95 languages.
 
 ## Why ANNA
 
