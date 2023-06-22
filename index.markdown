@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ### ANNA is empowering Refugees with Instant Access to Vital Information.
 
 
