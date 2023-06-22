@@ -28,10 +28,9 @@ url: "https://real-projects-digitalization.github.io/ANNA-Team-6-SS23-" # the ba
 github_username: real-projects-digitalization
 
 # Build settings
-remote_theme: pages-themes/slate@v0.2.0
+theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme 
 
 # Exclude from processing.
 # The following items will not be processed, by default.
