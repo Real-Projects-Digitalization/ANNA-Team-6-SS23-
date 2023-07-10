@@ -39,36 +39,4 @@ Feel free to test [ANNA](https://www.figma.com/proto/XbzkLkKWHi29msgiZa1eYH/Prot
 
 [GitHub Page](https://real-projects-digitalization.github.io/ANNA-Team-6-SS23-/)
 
-## This is our team:
-
-<table>
-  <tr>
-    <th> Name </th>
-    <th> Surname </th>
-    <th> University </th>
-    <th> City </th>
-    <th> Country </th>
-  </tr>
-  <tr>
-    <td> Melek </td>
-    <td> Altindis </td>
-    <td >University of Applied Sciences </td>
-    <td> Munich </td>
-    <td> Germany </td>
-  </tr>
-  <tr>
-    <td> Marlene </td>
-    <td> Huber </td>
-    <td> University of Applied Sciences </td>
-    <td> Munich </td>
-    <td> Germany </td>
-  </tr>
-  <tr>
-    <td>Fabian </td>
-    <td>Trurnit </td>
-    <td> University of Applied Sciences </td>
-    <td>Munich </td>
-    <td>Germany </td>
-  </tr>
-</table>
 
